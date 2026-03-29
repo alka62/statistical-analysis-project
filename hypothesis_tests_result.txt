@@ -1,0 +1,24 @@
+HYPOTHESIS TEST RESULTS
+
+1. T-Test:
+T-Statistic: -2.1231
+P-Value: 0.0363
+Conclusion: Since p-value < 0.05, there is a statistically significant difference between the two groups.
+
+2. Correlation Test:
+Correlation Coefficient: 0.0080
+P-Value: 0.9369
+Conclusion: Since p-value > 0.05, there is no significant relationship between the variables. The correlation is extremely weak.
+
+3. ANOVA Test:
+F-Statistic: 955.6823
+P-Value: 9.7074e-148
+Conclusion: Since p-value < 0.05, there is a statistically significant difference between the groups.
+
+4. Confidence Interval (95%):
+Lower Bound: 4.2665
+Upper Bound: 5.2935
+Interpretation: We are 95% confident that the true mean lies within this range.
+
+FINAL CONCLUSION:
+The analysis indicates that while there are significant differences between groups (T-Test and ANOVA), there is no meaningful correlation between the selected variables. This suggests that other factors may influence the outcome and should be explored further.
